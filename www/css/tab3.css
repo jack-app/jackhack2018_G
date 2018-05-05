@@ -1,0 +1,57 @@
+/* This is a CSS file */
+
+@charset "UTF-8";
+
+.prof-card{
+  background-color: #FEFEFE;
+  margin: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border: 6px #D42D26 solid;
+  border-radius: 0.5rem;
+}
+.trim-image{
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+  border: 4px solid #D42D26;
+  margin: 0 auto;
+  display: block;
+}
+.div1{
+	color:#D42D26;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+.div2{
+  background-color:#D42D26;
+  color:#FEFEFE;
+  text-align: center;
+  margin: 0;
+  padding-top: 20px;
+  height: 60px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.div3{
+	color:#D42D26;
+	text-align: center;
+  font-size: 1.25rem;
+  margin: 0.25rem;
+  margin-bottom: 0.25rem;
+  font-weight: bold;
+}
+.div4-1{
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.div4-2{
+  text-align: left;
+  margin-left: 1rem;
+}
+
+.div5{
+  width: 85%;
+  margin: 0 auto;
+}

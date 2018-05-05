@@ -1,0 +1,145 @@
+html,body{
+  padding: 0;
+  margin: 0;
+}
+
+.tab2-body{
+  background-color: #fefefe;
+}
+.tab2-top{
+  background-color: #d42d26;
+  color:#fefefe;
+  text-align:center;
+  height:60px;
+  padding:10px 0;
+  margin: 0 !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-size: 24px;
+  font-weight: bold;
+}
+.tab2-title{
+  color: #d42d26;
+  text-align: center;
+     font-size: 24px;
+     font-weight: bold;
+}
+.tab2-member{
+  border:solid 6px #d42d26;
+  border-radius: 1rem;
+  height:140px;
+  color: #d42d26;
+  width: 80%;
+  text-align:center;
+  margin: 0 auto;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fefefe;
+}
+
+.tab2-icon{
+  display: flex;
+  justify-content: space-around;
+  padding: 0.25rem;
+}
+
+.tab2-icon  img{
+  margin: 7px 0 0 0;
+  border-radius: 50%
+}
+
+
+.tab2-member-detail{
+
+  background-color: #d42d26;
+  color:#fefefe;
+  text-align: center;
+  padding: 10px 0 0 0;
+ margin: 0 0 0 0; 
+  height: 30px;
+  text-decoration: none;
+}
+
+.date{
+  color:#1C1C1C;
+  text-align: right;
+  font-weight: normal;
+  margin: 0 0.75rem 0 0;
+}
+
+.second-page-2{
+  background-color: #efeff4
+}
+
+.tab2-back{
+  text-decoration: none;
+  color: #fefefe;
+  padding-left: 1rem;
+}
+.tab2-2-head{
+  background-color: #d42d26;
+  color: #fefefe;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 24px;
+  height: 60px;
+  font-weight: bold;
+}
+
+
+
+.tab2-list{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.tab2-player{
+  margin:20px auto;
+display: flex;
+
+  background-color: #fefefe;
+  border: solid  5px #d42d26 ;
+  border-radius:1rem;
+  width:80%;
+  /*height:280px;*/
+}
+
+.tab2-player img{
+  height:48px;
+  margin: 10px;
+border-radius: 50%;
+}
+
+.tab2-information{
+padding:0;
+margin: 0;
+width: 240px;
+}
+
+
+.tab2-username{
+font-size: 32px;
+margin: 6px 0 0 0;
+color: #d42d26;
+   font-weight: bold;
+}
+
+.tab2-minititle{
+  font-size: 20px;
+  margin: 5px 0 0 0;
+color:#d42d26;
+   font-weight: bold;
+}
+
+.tab2-sentense{
+  margin: 0 0.5rem 0;
+  word-wrap: break-word;
+}
+.ega{
+  padding-bottom: 5.5rem;
+}

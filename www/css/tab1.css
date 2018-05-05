@@ -1,0 +1,135 @@
+/* TOP */
+.top-img{
+  background-color: #D42D26;
+  height: 50%;
+  margin-top: 0;
+}
+.top-img img{
+  display: flex;
+  width: 80%;
+  margin:0 auto;
+  padding-top: 3rem;
+}
+.top-btn{
+  background-color: #fefefe;
+  padding: 2rem 0;
+}
+.start-btn{
+  display: block;
+  border: 8px solid #D42D26;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto 1.25rem;
+  padding: 1.5rem 0;
+  border-radius: 1rem;
+  text-decoration: none;
+  color: #D42D26;
+  font-size:1.75rem;
+  font-weight: bold;
+  transition: 0.25s;
+}
+.start-btn:active{
+  background-color: #D42D26;
+  color: #fefefe;
+  transition: 0.25s;
+}
+
+/*ゲーム画面*/
+.tab1-player{
+  padding-top: 2rem;
+  background-color: #D42D26;
+  color: #FEFEFE;
+}
+.time{
+  text-align: right;
+  border: none;
+  color: #FEFEFE;
+  background-color: #D42D26;
+  font-size: 5rem;
+  height: 6rem;
+  width: 6rem;
+}
+.time-coron{
+  text-align:center;
+  color: #FEFEFE;
+  font-size: 5rem;
+}
+.hobby-theme{
+  width: 60%;
+  border: 4px solid #FEFEFE;
+  border-radius: 0.5rem;
+  font-size: 2rem;
+  padding: 1.5rem 2rem;
+  display: block;
+  text-align: left;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.game-btn{
+  display: block;
+  border: 4px solid #FEFEFE;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto 1.25rem;
+  padding: 0.5rem 0;
+  border-radius: 0.5rem;
+  background-color: #D42D26;
+  text-decoration: none;
+  color: #FEFEFE;
+  font-size:1.75rem;
+  font-weight: bold;
+  transition: 0.25s;
+}
+.game-btn:hover{
+  cursor: pointer;
+  }
+.game-btn:active{
+  transition: 0.25s;
+  background-color: #FEFEFE;
+  color: #D42D26;
+}
+/*結果発表*/
+#result-page{
+  background-color: #D42D26;
+  color: #FEFEFE;
+}
+.result-title{
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0;
+}
+.buttons{
+  margin: 0.5rem auto;
+  width: 80%;
+}
+.result{
+  width: 80%;
+  margin: 0 auto;
+  display: block;
+}
+.result-name{
+  padding: 1rem 0 0;
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+.result-hobby{
+  margin: 0 0 0 1rem;
+  line-height: 1.25rem;
+}
+.result-btn{
+  display: block;
+  border: 8px solid #FEFEFE;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto 1.25rem;
+  padding: 1rem 0;
+  border-radius: 1rem;
+  text-decoration: none;
+  color: #FEFEFE;
+  font-size:1.75rem;
+  font-weight: bold;
+  transition: 0.25s;
+  background-color: #D42D26;
+}

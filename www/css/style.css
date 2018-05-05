@@ -1,2 +1,9 @@
-/**/
-
+/*共通*/
+@import url(https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
+*{
+  font-family: 'Rounded Mplus 1c';
+}
+html,body{
+  padding: 0;
+  margin: 0;
+}
